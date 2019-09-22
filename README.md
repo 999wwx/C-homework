@@ -1,5 +1,6 @@
 ＃C ++作业
-'''python
-    print("hello")
-    print("world")
-'''
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
